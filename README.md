@@ -1,4 +1,5 @@
-<h1 class="header-section">Hi 👋, I'm Rushabh</h1>
+[![Banner](https://github.com/k-Rushabh/LearningsCentral/blob/main/Theme%20Github.png)](#)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-rushabh&label=Profile%20views&color=0e75b6&style=flat" alt="k-rushabh" /> </p>
 
