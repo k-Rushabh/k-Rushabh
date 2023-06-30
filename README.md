@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MSc Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/k-Rushabh](https://github.com/k-Rushabh)
+- 👨‍💻 All of my projects are available at [https://github.com/k-Rushabh?tab=repositories)
 
 - 💬 **Data analyst and MSc Data Science student specializing in Deep Learning. Ask me about data analysis, machine learning, deep learning, data visualization, Python programming, or data science projects. I can assist with data cleaning, statistical modeling, model selection, neural network implementation, data visualization techniques, and more. Here to help!**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kawadkarrushabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawadkarrushabh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rushabh-kawadkar-a0135812b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushabh-kawadkar-a0135812b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rushabh-kawadkar-a0135812b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushabh-kawadkar-a0135812b/" height="30" width="40" /></a>
 <a href="https://kaggle.com/rushabh kawadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rushabh kawadkar" height="30" width="40" /></a>
 <a href="https://instagram.com/rushabh_kawadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushabh_kawadkar" height="30" width="40" /></a>
 </p>
