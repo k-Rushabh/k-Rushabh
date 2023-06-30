@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rushabh</h1>
+<style>
+  .header-section {
+    background-image: url('https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science.jpg');
+    background-size: cover;
+    color: #ffffff;
+    padding: 50px;
+    text-align: center;
+  }
+</style>
+
+<h1 class="header-section">Hi 👋, I'm Rushabh</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-rushabh&label=Profile%20views&color=0e75b6&style=flat" alt="k-rushabh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kawadkarrushabh" target="blank"><img src="https://img.shields.io/twitter/follow/kawadkarrushabh?logo=twitter&style=for-the-badge" alt="kawadkarrushabh" /></a> </p>
