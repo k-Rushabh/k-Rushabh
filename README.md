@@ -1,13 +1,3 @@
-<style>
-  .header-section {
-    background-image: url('https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science.jpg');
-    background-size: cover;
-    color: #ffffff;
-    padding: 50px;
-    text-align: center;
-  }
-</style>
-
 <h1 class="header-section">Hi 👋, I'm Rushabh</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-rushabh&label=Profile%20views&color=0e75b6&style=flat" alt="k-rushabh" /> </p>
