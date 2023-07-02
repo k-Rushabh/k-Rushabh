@@ -62,7 +62,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-rushabh&layout=compact&langs_count=8&theme=dark" alt="k-rushabh" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=k-rushabh&show_icons=true&locale=en&theme=dark" alt="k-rushabh" width="400" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-rushabh&theme=dark" alt="k-rushabh" width="1800" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-rushabh&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k-rushabh&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-rushabh&theme=highcontrast" alt="GitHub Streak" width="800" height="200" />
 </div>
+
