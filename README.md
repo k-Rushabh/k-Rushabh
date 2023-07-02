@@ -56,8 +56,8 @@
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/> 
   <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/NumEconCopenhagen/PythonSocieties/master/logos/Power%20BI.png" alt="Power BI" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/> 
+  <img src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png" alt="Tableau" width="100" height="40"/> 
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> 
 </p>
 
