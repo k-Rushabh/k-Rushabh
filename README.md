@@ -9,7 +9,7 @@
 <p align="center">
   <strong>🔭 I’m working as a Data Analyst</strong>
   <br>
-  <strong>🌱 I’m currently learning MSc in Data Science</strong>
+  <strong>🌱 & currently learning MSc in Data Science</strong>
 </p>
 
 <p align="center">
