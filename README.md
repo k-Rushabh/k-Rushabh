@@ -1,4 +1,4 @@
-<img src="https://github.com/k-Rushabh/LearningsCentral/blob/main/Github%20Themes.gif"  alt="Alt Text" width="1000" height="200" >
+<img src="https://github.com/k-Rushabh/minimal/blob/master/Github%20Themes.gif"  alt="Alt Text" width="1000" height="200" >
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=k-rushabh&label=Profile%20views&color=0e75b6&style=flat" alt="k-rushabh" />
   <a href="https://twitter.com/kawadkarrushabh" target="blank">
